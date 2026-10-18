@@ -8,6 +8,28 @@ import {
 } from "react-icons/fa";
 
 const projects = [
+  
+
+{
+  title: "CareerFlow – Job Application Tracker",
+  category: "Frontend Web Application",
+  description:
+    "Built and deployed a responsive job application tracking dashboard using React and TypeScript. Features include application management, status tracking, a Kanban-style pipeline board, analytics, search, and browser-based data persistence.",
+  technologies: [
+    "React",
+    "TypeScript",
+    "Vite",
+    "CSS",
+    "LocalStorage",
+  ],
+  github: "https://github.com/pragnasri24/careerflow-job-tracker",
+  liveDemo: "https://careerflow-job-tracker.vercel.app/",
+  icon: FaBriefcase,
+  iconColor: "text-purple-500",
+  featured: true,
+},
+
+
   {
     title: "SupportAI",
     category: "Full-Stack Production Platform",
