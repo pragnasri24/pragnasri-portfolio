@@ -1,11 +1,14 @@
+
 import { motion } from "framer-motion";
 import {
   FaBrain,
+  FaBriefcase,
   FaExternalLinkAlt,
   FaGithub,
   FaHeadset,
   FaMobileAlt,
 } from "react-icons/fa";
+
 
 const projects = [
   
